@@ -1,0 +1,44 @@
+---
+title: "ms_2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+'The Harvard Shop!' by George Guarnieri 
+
+I appreciate the simplistic nature of the charts. I'm able to visibly see the
+top-performing products and the revenue they bring. The color variation and 
+legend in the bar graph certainly spell out the most popular products and 
+such. However, I think it's sort of confusing to add the revenue from 
+USPS Mail services. Technically, USPS 2-day priority was the highest source
+of revenue in 2018. But that's arguably not a product offering. It took me
+some time to come to the conclusion that there wasn't some niche sort of
+service being offered by The Harvard Shop, and this is merely shipping 
+service fees. The title of the graph implies product offerings, but this
+is arguably not one. The dot plot below is certainly helpful to see which
+years did best for each product. But it takes effort to read and isn't 
+something someone can take in at first glance, which I think is what
+a graph should do. Perhaps a stacked bar plot would have been better, where 
+different colors in a stack represent different years. This way, it would 
+have been much easier to read at first glance.
+
+'League of Legends' by Lewis Zhou
+
+Right off the bat, I am impressed with the project. The creator did very
+well to educate non-LoL players about the elements of interest here. I
+appreciate how he logically walked us through with the data as he showcased
+more graphs. I liked how he showed the impact of gold on winning first, and 
+then the impact of gold on damage and various other aspects. However,
+I do think some graphs were still hard to read or understand. Perhaps this
+may be because I am not familiar with LoL, but I had trouble interpreting
+the dot graphs towards the bottom. At some point with so much data, it
+became too obfuscated for me to discern the correlation. For example,
+the totalgold vs teamdragkills, I am not quite sure of what conclusion
+to extrapolate. That being said, I still think it was a compelling project
+that highlighted the importance of gold in LoL games.
+
+
+
